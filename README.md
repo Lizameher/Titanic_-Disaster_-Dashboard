@@ -4,7 +4,7 @@
 
 An interactive web dashboard visualizing survival statistics from the Titanic disaster. Dive into the data by filtering passengers based on gender, class, and age—all presented in a modern, responsive UI.
 
-![Dashboard Preview]
+Dashboard Preview
 ![image](https://github.com/user-attachments/assets/a3176c46-3067-436c-9508-64952feab96c)
 ![image](https://github.com/user-attachments/assets/63bc7a55-8a64-47d8-85d2-5e1ec7815b32)
 ![image](https://github.com/user-attachments/assets/28a2a674-5c64-42e0-a8f6-425e6d87b1d7)
